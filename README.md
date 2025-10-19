@@ -97,4 +97,4 @@ a. Mengelola Ekspektasi Kompetisi: Mengembangkan program atau lokakarya bagi mah
 
 b. Melibatkan dan Mengedukasi Orang Tua: Membuat program/seminar (misalnya saat orientasi mahasiswa baru) yang ditujukan kepada orang tua. Program ini harus memberikan edukasi tentang dampak 'home_pressure' dan memberikan panduan bagi orang tua tentang cara terbaik mendukung perjalanan akademik anak mereka secara positif tanpa menimbulkan stres yang berlebihan.
 
-tautan raw dataset: https://www.kaggle.com/datasets/grandmaster07/student-stress-levels-dataset
+tautan raw dataset: https://www.kaggle.com/datasets/anassarfraz13/student-success-factors-and-insights
